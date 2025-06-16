@@ -13,6 +13,7 @@ This makes Emergence Sort especially suited for **psychological experiments**, *
 ## Status
 
 - ✅Algorithm finalized.
+- ✅Experimental version implemented in Python. see [emerge_sort.py](./experimental/emerge_sort.py).
 - 🚧 Production-ready implementation under development.
   - Python  - implementation coming soon.
   - JavaScript - implementation coming soon.
