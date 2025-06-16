@@ -20,3 +20,15 @@ This makes Emergence Sort especially suited for **psychological experiments**, *
 - 🚧 Preprint paper in preparation.
 
 Contributions in other languages are welcome!
+
+## Algorithm Details
+
+A technical description of the algorithm is available in the [technical note.md](./docs/technical%20note.md)
+
+A pseudo-code is provided in [pseudo-code.pdf](./docs/pseudo-code.pdf).
+
+## Citation
+
+If you use this algorithm in your work, please cite it as:
+
+> Yang, G., Rodrigues, R., Yu, D., & Verstraten, F. A. J. (2025, June). Taking the human decision maker into account: A critical evaluation of sorting algorithms for large stimuli sets and guidelines for improvement. [Poster presentation]. *The Australasian Experimental Psychology Conference, Singapore*.
