@@ -39,6 +39,8 @@ This deferred sampling becomes essential when local distinctiveness constraints 
 
 Such strategies may help **maximise information reuse**, particularly in **multi-judge** scenarios where group consensus is inferred from sparse comparisons.
 
+An pseudocode is provided [here](./pseudo-code.pdf).
+
 ## Algorithmic Properties
 
 ### Property 1: Bounded Error Propagation
