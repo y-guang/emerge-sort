@@ -33,7 +33,7 @@ A pseudo-code is provided in [pseudo-code.pdf](./docs/pseudo-code.pdf).
 
 If you use this algorithm in your work, please cite it as:
 
-> Yang, G., Rodrigues, R., Yu, D., & Verstraten, F. A. J. (2025, June). Taking the human decision maker into account: A critical evaluation of sorting algorithms for large stimuli sets and guidelines for improvement. [Poster presentation]. *The Australasian Experimental Psychology Conference, Singapore*.
+> Yang, G., Rodrigues, R., Yu, D., & Verstraten, F. A. J. (2025, June). Taking the human decision maker into account: A critical evaluation of sorting algorithms for large stimuli sets and guidelines for improvement. [Poster presentation]. *The Australasian Experimental Psychology Conference, Sydney, Australia*.
 
 ## License and Acknowledgements
 
