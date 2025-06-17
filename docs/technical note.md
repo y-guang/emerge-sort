@@ -8,13 +8,7 @@ The name *Emerge Sort* serves a dual purpose. First, it denotes an *enhanced* me
 
 In most sorting problems, human decision-makers can be metaphorically described as single-core processors equipped with an extremely small *fully associative cache*. Foundational research supports this: Miller (1956) famously estimated working memory capacity at **7±2 items**, while Cowan (2001) proposed a more conservative estimate of **4 items**.
 
-Given that each comparison involves two items, a repeated item is likely to be retained in working memory if it reappears within approximately
-
-$$
-\left\lceil \frac{7}{2} \right\rceil = 4
-$$
-
-consecutive trials. In particular, if an item reoccurs in **immediate succession**, a cache hit is almost certain.
+Given that each comparison involves two items, a repeated item is likely to be retained in working memory if it reappears within approximately $\left\lceil \frac{7}{2} \right\rceil = 4$ consecutive trials. In particular, if an item reoccurs in **immediate succession**, a cache hit is almost certain.
 
 However, in **cognitively mediated comparison tasks**, locality is not a virtue. While locality boosts speed in computational circuits, it may introduce **bias** in human decision-making. For instance, repeated exposure to a single item may reduce attentional resources through **practice effects** or **habituation**. Thus, *minimising locality*—ensuring that comparisons remain novel—may yield more **stable and fair** judgments.
 
